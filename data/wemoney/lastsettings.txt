@@ -1,0 +1,16 @@
+{
+	"wblmoney_money_max": "20000",
+	"wblmoney_dynamicmoney_fallback": "50",
+	"wblmoney_moneyloss_method": "2",
+	"wblmoney_moneyloss_fixed_amount": "50",
+	"wblmoney_moneyloss_percent_amount": "37.79",
+	"wblmoney_money_entvalue": "50",
+	"wblmoney_money_plyvalue": "300",
+	"wblmoney_dynamicmoney_enable": "1",
+	"wblmoney_money_start": "0",
+	"wblmoney_moneyloss_enabled": "1",
+	"wblmoney_money_coop": "0",
+	"wblmoney_Nomoneyonally": "1",
+	"wblmoney_dynamicmoney_offset": "0",
+	"wblmoney_dynamicmoney_multplier": "0.41"
+}
