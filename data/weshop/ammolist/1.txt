@@ -1,0 +1,51 @@
+[
+	{
+		"maxquantity": 60,
+		"price": 25,
+		"quantity": 30,
+		"class": "AR2",
+		"name": "Pulse Rounds"
+	},
+	{
+		"maxquantity": 3,
+		"price": 100,
+		"quantity": 1,
+		"class": "-1",
+		"name": "-1 Rounds"
+	},
+	{
+		"maxquantity": 18,
+		"price": 20,
+		"quantity": 6,
+		"class": "357",
+		"name": "Revolver Rounds"
+	},
+	{
+		"maxquantity": 225,
+		"price": 10,
+		"quantity": 25,
+		"class": "SMG1",
+		"name": "SMG Rounds"
+	},
+	{
+		"maxquantity": 150,
+		"price": 10,
+		"quantity": 15,
+		"class": "None",
+		"name": "None Rounds"
+	},
+	{
+		"maxquantity": 150,
+		"price": 8,
+		"quantity": 15,
+		"class": "Pistol",
+		"name": "Pistol Rounds"
+	},
+	{
+		"maxquantity": 30,
+		"price": 15,
+		"quantity": 6,
+		"class": "Buckshot",
+		"name": "Shotgun Rounds"
+	}
+]
